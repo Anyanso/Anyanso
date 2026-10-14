@@ -6,7 +6,7 @@ I design practical apps that solve real problems, building them quickly with AI 
 
 | Project | What it does | Try it |
 |---|---|---|
-| **[Stock Compass](https://github.com/Anyanso/stock-compass)** | Plain-language stock research for everyday and diaspora investors. Ranks global stocks by your goal (income, growth or low risk), explains every number in plain English, shows costs in your own currency, pulls live prices, and lets families track a shared portfolio together. | [Live demo](https://anyanso.github.io/stock-compass/) |
+| **[Stock Compass](https://github.com/Anyanso/stock-compass)** | Plain-language stock research for everyday and diaspora investors. Ranks global stocks by your goal, explains every number in plain English, shows 1- and 5-year outlooks in your own currency, and works with Wealthsimple and Questrade. Desktop app for Windows and Mac with encrypted keys, an app lock and AI insights from Claude. | [Web app](https://anyanso.github.io/stock-compass/) · [Download](https://anyanso.github.io/stock-compass/download.html) |
 
 *More apps coming soon.*
 
